@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Page from './components/page/imc'
+import IMC from './components/Page/imc';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Page />
+    <IMC />
   </React.StrictMode>
 );

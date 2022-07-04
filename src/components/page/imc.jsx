@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Table from "../table/table";
+import Table from "../Table/table";
 import "./styles.css";
 
 export default function IMC() {
